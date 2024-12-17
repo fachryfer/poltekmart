@@ -1,4 +1,3 @@
-![hompage](https://user-images.githubusercontent.com/98668706/183855814-e2006ecf-d700-4885-8d90-280115bbe37d.png)
 
 Homepage preview video:
 
