@@ -13,7 +13,7 @@
                     <div class="card">
                         <div class="card-body">
                             <h4 class="header-title text-warning">FAQ</h4>
-                            <!-- Tombol Tambah FAQ -->
+                            <!-- Tombol Tambah FAQS -->
                             <div class="mb-3 text-left">
                                 <a class="btn btn-danger btn-sm" href="{{ route('admin.faq.create') }}">
                                     <i class="ti-plus"></i> Tambah FAQ
