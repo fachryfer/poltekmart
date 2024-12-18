@@ -15,7 +15,10 @@
     <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;600;900&display=swap" rel="stylesheet">
 
     <!-- Css Styles -->
-    <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}" type="text/css">
+    {{-- <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}" type="text/css">
+     --}}
+     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" type="text/css">
+
     <link rel="stylesheet" href="{{ asset('assets/css/font-awesome.min.css') }}" type="text/css">
     <link rel="stylesheet" href="{{ asset('assets/css/elegant-icons.css') }}" type="text/css">
     <link rel="stylesheet" href="{{ asset('assets/css/nice-select.css') }}" type="text/css">
